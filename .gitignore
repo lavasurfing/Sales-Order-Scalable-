@@ -1,0 +1,10 @@
+*.json
+
+
+# files to ignore
+
+.json
+.env
+testing_functions.py
+key1.json
+Sheet_api_key.json

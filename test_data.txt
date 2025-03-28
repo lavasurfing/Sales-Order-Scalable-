@@ -1,0 +1,24 @@
+Base data 
+------------
+doc id :  0TizL7RMsZADUKvZzzpZ
+
+p_id : P-1
+product name : "Rem Shoes Spike"
+Qty : 20
+-------------------
+
+doc_id = '3LwWijJXJiwEEmPPhRFO'
+
+p_id = 'P-7'
+product name : Tiri Swiming Suit Male
+
+qty : 20
+--------------------------------------
+
+doc_id = 'i0i2vFs1dB0kdZQXV3Zi'
+
+p_id = 'P-8'
+
+product name = 'Swiming Suit'
+
+
